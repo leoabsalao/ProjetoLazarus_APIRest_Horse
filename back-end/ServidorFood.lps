@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ServidorFood.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="48"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uprincipal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="fPrincipal"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uPrincipal"/>
+        <TopLine Value="7"/>
+        <CursorPos X="54" Y="34"/>
+        <UsageCount Value="48"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="controllers\ucontrollers.cardapio.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uControllers.Cardapio"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="53" Y="19"/>
+        <UsageCount Value="47"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="controllers\ucontrollers.pedidos.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uControllers.Pedidos"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="30"/>
+        <CursorPos X="45" Y="41"/>
+        <UsageCount Value="44"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="controllers\ucontrollers.config.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uControllers.Config"/>
+        <EditorIndex Value="4"/>
+        <CursorPos X="57" Y="20"/>
+        <UsageCount Value="44"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="DataModule\dmconex.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="DM"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <UnitName Value="DMConex"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="134"/>
+        <CursorPos X="68" Y="151"/>
+        <UsageCount Value="43"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\components\horse\src\Horse.Provider.FPC.HTTPApplication.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="140"/>
+        <CursorPos Y="157"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\include\customform.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="910"/>
+        <CursorPos Y="920"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Users\leona.LAPTOP-57JR0PV1\AppData\Local\lazarus\onlinepackagemanager\packages\zeosdbo\src\dbc\ZDbcSqLite.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="725"/>
+        <CursorPos Y="740"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Users\leona.LAPTOP-57JR0PV1\AppData\Local\lazarus\onlinepackagemanager\packages\zeosdbo\src\component\ZAbstractRODataset.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3791"/>
+        <CursorPos Y="3805"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\components\horse\src\Horse.Request.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="110"/>
+        <CursorPos X="45" Y="120"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="controllers\ucontrollers.pedidos.pas"/>
+        <Caret Line="49" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="controllers\ucontrollers.pedidos.pas"/>
+        <Caret Line="50" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="controllers\ucontrollers.pedidos.pas"/>
+        <Caret Line="53" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="DataModule\dmconex.pas"/>
+        <Caret Line="146" TopLine="134"/>
+      </Position>
+      <Position>
+        <Filename Value="DataModule\dmconex.pas"/>
+        <Caret Line="148" TopLine="134"/>
+      </Position>
+      <Position>
+        <Filename Value="DataModule\dmconex.pas"/>
+        <Caret Line="150" TopLine="134"/>
+      </Position>
+      <Position>
+        <Filename Value="DataModule\dmconex.pas"/>
+        <Caret Line="151" TopLine="134"/>
+      </Position>
+      <Position>
+        <Filename Value="DataModule\dmconex.pas"/>
+        <Caret Line="152" TopLine="134"/>
+      </Position>
+      <Position>
+        <Filename Value="DataModule\dmconex.pas"/>
+        <Caret Line="153" TopLine="134"/>
+      </Position>
+      <Position>
+        <Filename Value="DataModule\dmconex.pas"/>
+        <Caret Line="154" TopLine="134"/>
+      </Position>
+      <Position>
+        <Filename Value="DataModule\dmconex.pas"/>
+        <Caret Line="156" TopLine="134"/>
+      </Position>
+      <Position>
+        <Filename Value="DataModule\dmconex.pas"/>
+        <Caret Line="157" TopLine="134"/>
+      </Position>
+      <Position>
+        <Filename Value="DataModule\dmconex.pas"/>
+        <Caret Line="158" TopLine="134"/>
+      </Position>
+      <Position>
+        <Filename Value="DataModule\dmconex.pas"/>
+        <Caret Line="159" TopLine="134"/>
+      </Position>
+      <Position>
+        <Filename Value="DataModule\dmconex.pas"/>
+        <Caret Line="160" TopLine="134"/>
+      </Position>
+      <Position>
+        <Filename Value="DataModule\dmconex.pas"/>
+        <Caret Line="161" TopLine="135"/>
+      </Position>
+      <Position>
+        <Filename Value="DataModule\dmconex.pas"/>
+        <Caret Line="148" TopLine="135"/>
+      </Position>
+      <Position>
+        <Filename Value="DataModule\dmconex.pas"/>
+        <Caret Line="150" TopLine="135"/>
+      </Position>
+      <Position>
+        <Filename Value="DataModule\dmconex.pas"/>
+        <Caret Line="151" TopLine="135"/>
+      </Position>
+      <Position>
+        <Filename Value="DataModule\dmconex.pas"/>
+        <Caret Line="152" TopLine="135"/>
+      </Position>
+      <Position>
+        <Filename Value="DataModule\dmconex.pas"/>
+        <Caret Line="153" TopLine="135"/>
+      </Position>
+      <Position>
+        <Filename Value="DataModule\dmconex.pas"/>
+        <Caret Line="154" TopLine="135"/>
+      </Position>
+      <Position>
+        <Filename Value="DataModule\dmconex.pas"/>
+        <Caret Line="156" TopLine="135"/>
+      </Position>
+      <Position>
+        <Filename Value="DataModule\dmconex.pas"/>
+        <Caret Line="157" TopLine="135"/>
+      </Position>
+      <Position>
+        <Filename Value="DataModule\dmconex.pas"/>
+        <Caret Line="158" TopLine="135"/>
+      </Position>
+      <Position>
+        <Filename Value="DataModule\dmconex.pas"/>
+        <Caret Line="159" TopLine="135"/>
+      </Position>
+      <Position>
+        <Filename Value="DataModule\dmconex.pas"/>
+        <Caret Line="160" TopLine="135"/>
+      </Position>
+      <Position>
+        <Filename Value="DataModule\dmconex.pas"/>
+        <Caret Line="161" TopLine="135"/>
+      </Position>
+      <Position>
+        <Filename Value="DataModule\dmconex.pas"/>
+        <Caret Line="148" TopLine="135"/>
+      </Position>
+      <Position>
+        <Filename Value="DataModule\dmconex.pas"/>
+        <Caret Line="164" TopLine="138"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

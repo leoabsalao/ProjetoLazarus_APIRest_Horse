@@ -1,0 +1,21 @@
+object DM: TDM
+  OnCreate = DataModuleCreate
+  OldCreateOrder = False
+  Height = 313
+  HorizontalOffset = 337
+  VerticalOffset = 228
+  Width = 456
+  object zConex: TZConnection
+    ControlsCodePage = cCP_UTF8
+    Properties.Strings = (
+      'RawStringEncoding=DB_CP'
+    )
+    Connected = True
+    DisableSavepoints = False
+    Port = 0
+    Database = 'C:\DEV\Lazarus\FoodAPI\database\dbfoodApi.db'
+    Protocol = 'sqlite'
+    Left = 45
+    Top = 41
+  end
+end
